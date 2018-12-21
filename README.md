@@ -9,12 +9,12 @@ obviously, its harder to sort 10 numbers in compare to 3 numbers for instance.
 here is the plot of how quick sort works
 
 
-<img src = "https://github.com/aminnoorani/plots/blob/master/quicksort2.png" width = "500" height = "500"/>
+<img src = "https://github.com/aminnoorani/plots/blob/master/quicksort2.png" width = "600" height = "400"/>
 
 
 then we comes to Bubble sort,which is similar quick sort.
 
-<img src = "https://github.com/aminnoorani/plots/blob/master/bubblesort4.png" width = "500" height = "500"/>
+<img src = "https://github.com/aminnoorani/plots/blob/master/bubblesort4.png" width = "600" height = "400"/>
 
 it is same as quick sort, it gets slower when the number of elements are increasing as sorting more numbers, is more difficult!
 
