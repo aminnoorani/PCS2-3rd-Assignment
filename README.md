@@ -1,19 +1,48 @@
 # PCS2-3rd-Assignment
 In this assignment, We want to compare 4 different algorithms to see how they work
-in a matter of time. 2 of them which are named as Quick sort and Bubble sort, we only need to check
-which one is faster or to see which one has better performance when the list get bigger.
-for example in the plot below, we see that how quick sort works when we add elements to the list.
+in a matter of time. we want to compare all these algorithms to understand which works faster but at first,
+we have to visualize each of them in different plot to see the details. firts, we should write a function to add a random element to the list, then write a function to get the minimum, and at the end, get the maximum value of the list.
+
+In the plot below, we see that how quick sort works when we add elements to the list. When the list is getting bigger, quick sort becomes slower. we know for example, when we have one elements which the function initiates like that, it takes no time to get min and get max so its immediately. but after the add function which add after and after, it is getting slower because
+obviously, its harder to sort 10 numbers in compare to 3 numbers for instance.
+
+here is the plot of how quick sort works
 
 
-<img src = "https://github.com/aminnoorani/plots/blob/master/quicksort2.png" width = "300" height = "300"/>
+<img src = "https://github.com/aminnoorani/plots/blob/master/quicksort2.png" width = "500" height = "500"/>
+
+
+then we comes to Bubble sort,which is similar quick sort.
+
+<img src = "https://github.com/aminnoorani/plots/blob/master/bubblesort4.png" width = "500" height = "500"/>
+
+it is same as quick sort, it gets slower when the number of elements are increasing as sorting more numbers, is more difficult!
+
+
+A binary tree is made of nodes, where each node contains a left pointer, a right pointer, and a data element. The root pointer points to the topmost node in the tree. The left and right pointers recursively point to smaller subtrees on either side.
+it is similar to heap sort, which is dependent on size of the element. you can see how it works below:
 
 
 
-2 sort (min o max ahamiat nadare)
-2ta daste bandi
-sorate gereftane minmax
-tooye binary heap ba tree bbinim sorate add o get min get max cheghade
-ye list az random random list dorost mkonim
-performance e in 4ta vaghti size e list afzayesh peyda kone chejoorie
+<img src = "https://github.com/aminnoorani/plots/blob/master/binarytree1.png" width = "500" height = "500"/>
+
+
+
+
+
+
+below is the plot of heap sort, 
+this is asorting algorithm that works by first organizing the data to be sorted into a special type of binary tree called a heap. so it is not clear that how it works, performance of heap sort is dependent on the size of inserted elements and the previous branches. the different between heap sort and binary tree, it starts from bottom, there is no left or right pointer so it is much more faster
+
+<img src = "https://github.com/aminnoorani/plots/blob/master/Heapsort3.png" width = "500" height = "500"/>
+
+
+A binary tree is made of nodes, where each node contains a left pointer, a right pointer, and a data element. The root pointer points to the topmost node in the tree. The left and right pointers recursively point to smaller subtrees on either side.
+it is similar to heap sort, which is dependent on size of the element.
+
+
+
+
+
 
 
