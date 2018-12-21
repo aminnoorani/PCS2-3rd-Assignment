@@ -12,12 +12,12 @@ obviously, its harder to sort 10 numbers in compare to 3 numbers for instance.
 here is the plot of how quick sort works
 
 
-<img src = "https://github.com/aminnoorani/plots/blob/master/quicksort2.png" width = "600" height = "400"/>
+<p align="center"><img src = "https://github.com/aminnoorani/plots/blob/master/quicksort2.png" width = "600" height = "400"/>
 
 
 then we comes to Bubble sort,which is similar quick sort.
 
-<img src = "https://github.com/aminnoorani/plots/blob/master/bubblesort4.png" width = "600" height = "400"/>
+<p align="center"><img src = "https://github.com/aminnoorani/plots/blob/master/bubblesort4.png" width = "600" height = "400"/>
 
 it is same as quick sort, it gets slower when the number of elements are increasing as sorting more numbers, is more difficult!
 
@@ -27,7 +27,7 @@ it is similar to heap sort, which is dependent on size of the element. you can s
 
 
 
-<img src = "https://github.com/aminnoorani/plots/blob/master/binarytree1.png" width = "500" height = "500"/>
+<p align="center"><img src = "https://github.com/aminnoorani/plots/blob/master/binarytree1.png" width = "500" height = "500"/>
 
 
 
@@ -42,7 +42,7 @@ this is asorting algorithm that works by first organizing the data to be sorted 
 
 
 
-<img src = "https://github.com/aminnoorani/plots/blob/master/Heapsort3.png" width = "500" height = "500"/>
+<p align="center"><img src = "https://github.com/aminnoorani/plots/blob/master/Heapsort3.png" width = "500" height = "500"/>
 
 
 
@@ -56,7 +56,30 @@ we are giving it lists with lengths starting from 100 going up to 1000 with 100 
 
 
 
-<img src = "https://github.com/aminnoorani/plots/blob/master/compadds5.png" width = "500" height = "500"/>
+<p align="center"><img src = "https://github.com/aminnoorani/plots/blob/master/compadds5.png" width = "500" height = "500"/>
+
+
+
+
+and then, we want to compare the same issue with get_min and get_max functions which we see signifacnt differences between binary tree  and the rest. but mainly we should compare heap and binary tree because the other two are similar to each other and these two(binary tree and heap) are alike. so here they are:
+
+
+
+<p align="center"><img src = "https://github.com/aminnoorani/plots/blob/master/comgetmin6.png" width = "400" height = "350"/>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <img src = "https://github.com/aminnoorani/plots/blob/master/compgetmax7.png" width = "400" height = "350"/>
+
+
+
+
 
 
 
