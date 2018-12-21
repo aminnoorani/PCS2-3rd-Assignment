@@ -5,8 +5,7 @@ which one is faster or to see which one has better performance when the list get
 for example in the plot below, we see that how quick sort works when we add elements to the list.
 
 
-https://github.com/aminnoorani/PCS2-3rd-Assignment/blob/master/Quick%20Sort.png
-
+<img src = "https://github.com/aminnoorani/plots/blob/master/quicksort2.png" width = "300" height = "300"/>
 
 
 
