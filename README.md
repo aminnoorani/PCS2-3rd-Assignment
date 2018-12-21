@@ -37,8 +37,6 @@ this is asorting algorithm that works by first organizing the data to be sorted 
 <img src = "https://github.com/aminnoorani/plots/blob/master/Heapsort3.png" width = "500" height = "500"/>
 
 
-A binary tree is made of nodes, where each node contains a left pointer, a right pointer, and a data element. The root pointer points to the topmost node in the tree. The left and right pointers recursively point to smaller subtrees on either side.
-it is similar to heap sort, which is dependent on size of the element.
 
 
 
